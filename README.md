@@ -13,3 +13,4 @@ Die 16 Bytes eines Sektor Trailer sind wie folgt aufgeteilt:
 Das Projekt arebitet mit einem Expressif ESP8266 Modul als Basis und einem RC522 PCD. Die Programmierung erfolgt über die Arduino IDE.
 Dem Repository liegt die Quelldateien im .ino Sketch Format bei.
 
+Alle Teile der Card Reader Serie sind komplett unabhängig voneinander Kompilier- und nutzbar.
